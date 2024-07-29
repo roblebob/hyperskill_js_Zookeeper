@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <code>greater</code>
+  - text: <code>false</code>
+  - text: <code>less</code>
+  - text: <code>true</code>
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8581#comment
+status: Solved
+record: -1
+local_check: false
